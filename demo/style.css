@@ -1,0 +1,15 @@
+
+html, body {height: 100%;}
+body {
+    background: #FFF;
+    padding: 0;
+    margin: 0;
+}
+
+#test section {overflow: hidden; font-size: 30px;}
+#test-1 {height: 478px; background: yellow;}
+#test-2 {height: 512px; background: blue;}
+#test-3 {height: 373px; background: red;}
+#test-4 {height: 722px; background: green;}
+#test-5 {height: 648px; background: orange;}
+#test-6 {height: 526px; background: grey;}
